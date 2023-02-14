@@ -2,7 +2,7 @@
 
 ---
 
-## 💦 왜 항상 우산을 들고 나가지 않으면 비가 올까?
+## 🤩 간단한 TodoLiist 만들기
 벨로퍼트님의 [모던 리액트] (https://react.vlpt.us/mashup-todolist/) 강의 내용으로 제작한 TodoList 입니다. </br>
 감사합니다! ヾ(≧▽≦*)o </br>
 
